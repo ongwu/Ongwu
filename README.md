@@ -22,7 +22,7 @@
 ### 📫 联系我
 
 - GitHub：[https://github.com/ongwu](https://github.com/ongwu) - 来这里看我的代码
-- 博客：[https://ongwu.cn](https://www.ongwu.cn) - 来这里看我的文字
+- 博客：[https://www.ongwu.cn](https://www.ongwu.cn) - 来这里看我的文字
 - Email：请在博客留言，我会回复你的！
 
 > 「代码虐我千百遍，我待代码如初恋」—— 这就是我，一个热爱编程的普通人。
